@@ -1,0 +1,11 @@
+com\smartcampus\api\SensorResource.class
+com\smartcampus\filter\TrafficLogger.class
+com\smartcampus\model\Sensor.class
+com\smartcampus\Main.class
+com\smartcampus\api\RoomResource.class
+com\smartcampus\model\Room.class
+com\smartcampus\exception\GlobalExceptionHandler.class
+com\smartcampus\config\DataStore.class
+com\smartcampus\config\AppConfig.class
+com\smartcampus\model\SensorReading.class
+com\smartcampus\api\SensorReadingResource.class
